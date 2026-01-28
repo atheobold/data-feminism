@@ -2,14 +2,14 @@
 title: "Schedule"
 ---
 
-## March 31 - Cezar Chavez Day
+## (Week 1) March 31 - Cezar Chavez Day
 
 ![](images/cezar-chavez.png){fig-alt="A black-and-white photo of farm-worker strike marchers. Two people hold round signs reading ‘HUELGA’ (strike) above a black eagle symbol and ‘NFWA’ (National Farm Workers Association). In the foreground, César Chávez walks with his head slightly down while other marchers crowd behind him."}
 
 If you are interested in reading about the history of the labor movement, this
 is a great article: [Ceasar Chavez and the Organized Labor Movement](https://americanexperience.si.edu/wp-content/uploads/2015/02/Ceasar-Chavez-and-the-Organized-Labor-Movement.pdf)
 
-## April 7
+## (Week 2) April 7
 
 ::: {.panel-tabset}
 ## Due Today
@@ -20,13 +20,11 @@ is a great article: [Ceasar Chavez and the Organized Labor Movement](https://ame
 
 ## Additional Resources
 
-<!-- {{< fa book >}} [Black Women: Shaping Feminist Theory by bell hooks](readings/Black Women Shaping Feminist Theory.pdf) -->
-
 {{< fa newspaper >}} [The Combahee River Collective Statement](http://circuitous.org/scraps/combahee.html)
 
 :::
 
-## April 14
+## (Week 3) April 14
 
 ::: {.panel-tabset}
 ## Due Today
@@ -40,7 +38,7 @@ Commercial Gender Classification by Joy Buolamwini](https://proceedings.mlr.pres
 
 :::
 
-## April 21
+## (Week 4) April 21
 
 ::: {.panel-tabset}
 ## Due Today
@@ -51,17 +49,21 @@ Commercial Gender Classification by Joy Buolamwini](https://proceedings.mlr.pres
 
 {{< fa book >}} [Machine Bias by Julia Angwin, Jeff Larson, Surya Mattu and Lauren Kirchner](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing)
 
+{{< fa newspaper >}} [Fairness for Unobserved Characteristics: Insights from Technological Impacts on Queer Communities by Tomasev et al.](https://arxiv.org/abs/2102.04257?utm)
+
 {{< fa newspaper >}} [Disparate Interactions: An Algorithm-in-the-Loop
 Analysis of Fairness in Risk Assessments by Ben Green & Yiling Chen](https://www.benzevgreen.com/wp-content/uploads/2019/02/19-fat.pdf)
 
 :::
 
-## April 28
+## (Week 5) April 28
 
 ::: {.panel-tabset}
 ## Due Today
 
 {{< fa book >}} [Data Feminism Chapter 3: On Rational, Scientific, Objective Viewpoints from Mythical, Imaginary, Impossible Standpoints](https://data-feminism.mitpress.mit.edu/pub/5evfe9yd/release/5)
+
+{{< fa people-group >}} Form groups for book presentations
 
 ## Additional Resources
 
@@ -72,12 +74,14 @@ by Jessica Hullman & Nicholas Diakopoulous](https://ieeexplore.ieee.org/document
 
 :::
 
-## May 5
+## (Week 6) May 5
 
 ::: {.panel-tabset}
 ## Due Today
 
 {{< fa book >}} [Data Feminism Chapter 4: "What Gets Counted Counts"](https://data-feminism.mitpress.mit.edu/pub/h1w0nbqp/release/3)
+
+{{< fa book-open-reader >}} Work on group book presentations
 
 ## Additional Resources
 
@@ -87,28 +91,28 @@ by Jessica Hullman & Nicholas Diakopoulous](https://ieeexplore.ieee.org/document
 
 :::
 
-## May 12
+## (Week 7) May 12
 
 ::: {.panel-tabset}
 ## Due Today
 
 {{< fa book >}} [Data Feminism Chapter 5: Unicorns, Janitors, Ninjas, Wizards, and Rock Stars ](https://data-feminism.mitpress.mit.edu/pub/2wu7aft8/release/3)
 
-<!-- group book presentations -->
+{{< fa person-chalkboard >}} Group book presentations
 
 ## Additional Resources
 
 {{< fa video >}} [(Dis)location / Black Exodus Interactive Collage Map by the Anti-Eviction Mapping Project](https://adriennehall8.github.io/carto-blackexodus/)
 :::
 
-## May 19
+## (Week 8) May 19
 
 ::: {.panel-tabset}
 ## Due Today
 
 {{< fa book >}} [Data Feminism Chapter 6: The Numbers Don't Speak for Themselves](https://data-feminism.mitpress.mit.edu/pub/czq9dfs5/release/3)
 
-<!-- form groups for data context protocol -->
+{{< fa people-group >}} Form groups for data context protocol
 
 ## Additional Resources
 
@@ -118,14 +122,14 @@ and ethnic stereotypes by Garga et al.](https://www.pnas.org/doi/pdf/10.1073/pna
 {{< fa newspaper >}} [Multimodal Social Media Analysis for Gang Violence Prevention by Blandfort et al.](https://ojs.aaai.org/index.php/ICWSM/article/view/3214/3082)
 :::
 
-## May 26
+## (Week 9) May 26
 
 ::: {.panel-tabset}
 ## Due Today
 
 {{< fa book >}} [Data Feminism Chapter 7: Show Your Work](https://data-feminism.mitpress.mit.edu/pub/0vgzaln4/release/3)
 
-<!-- first draft data context protocol -->
+{{< fa brands firstdraft >}} First draft data context protocol
 
 ## Additional Resources
 
@@ -134,14 +138,17 @@ and ethnic stereotypes by Garga et al.](https://www.pnas.org/doi/pdf/10.1073/pna
 {{< fa computer-mouse >}} [Anatomy of an AI System](https://anatomyof.ai/)
 :::
 
-## June 2
+## (Week 10) June 2
 
 ::: {.panel-tabset}
 ## Due Today
 
 {{< fa book >}} [Data Feminism Conclusion: Now Let's Multiply](https://data-feminism.mitpress.mit.edu/pub/a1ao95xs/release/4)
 
-<!-- second draft data context protocol -->
+{{< fa magnifying-glass >}} Peer review of first draft data context protocol
+
+{{< fa brands firstdraft >}} Second draft data context protocol
+
 
 ## Additional Resources
 
@@ -152,10 +159,13 @@ and ethnic stereotypes by Garga et al.](https://www.pnas.org/doi/pdf/10.1073/pna
 {{< fa video >}} [Abolish Big Data by Yeshimabeit Milner](https://www.youtube.com/watch?v=26lM2RGAdlM)
 :::
 
-## June 9 - Data Context Protocol
+## (Week 11) June 9 - Data Context Protocol
 
-<!-- ::: {.panel-tabset} -->
-<!-- ## Due Today -->
+::: {.panel-tabset}
+## Due Today
 
-<!-- ## Additional Resources -->
-<!-- ::: -->
+{{< fa clipboard-check>}} Final draft data context protocol
+
+## Additional Resources
+
+:::
