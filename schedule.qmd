@@ -2,6 +2,13 @@
 title: "Schedule"
 ---
 
+## March 31 - Cezar Chavez Day
+
+![](images/cezar-chavez.png){fig-alt="A black-and-white photo of farm-worker strike marchers. Two people hold round signs reading ‘HUELGA’ (strike) above a black eagle symbol and ‘NFWA’ (National Farm Workers Association). In the foreground, César Chávez walks with his head slightly down while other marchers crowd behind him."}
+
+If you are interested in reading about the history of the labor movement, this
+is a great article: [Ceasar Chavez and the Organized Labor Movement](https://americanexperience.si.edu/wp-content/uploads/2015/02/Ceasar-Chavez-and-the-Organized-Labor-Movement.pdf)
+
 ## April 7
 
 ::: {.panel-tabset}
@@ -9,11 +16,12 @@ title: "Schedule"
 
 {{< fa book >}} [Data Feminism Introduction: Why Data Science Needs Feminism](https://data-feminism.mitpress.mit.edu/pub/frfa9szd/release/6)
 
-{{< fa book >}} [Black Women: Shaping Feminist Theory by bell hooks](readings/Black Women Shaping Feminist Theory.pdf)
-
-{{< fa book >}} [The Combahee River Collective Statement](http://circuitous.org/scraps/combahee.html)
-
 ## Additional Resources
+
+<!-- {{< fa book >}} [Black Women: Shaping Feminist Theory by bell hooks](readings/Black Women Shaping Feminist Theory.pdf) -->
+
+{{< fa newspaper >}} [The Combahee River Collective Statement](http://circuitous.org/scraps/combahee.html)
+
 :::
 
 ## April 14
@@ -23,10 +31,11 @@ title: "Schedule"
 
 {{< fa book >}} [Data Feminism Chapter 1: The Power Chapter](https://data-feminism.mitpress.mit.edu/pub/vi8obxh7/release/4)
 
-{{< fa book >}} [Gender Shades: Intersectional Accuracy Disparities in
+## Additional Resources
+
+{{< fa newspaper >}} [Gender Shades: Intersectional Accuracy Disparities in
 Commercial Gender Classification by Joy Buolamwini](https://proceedings.mlr.press/v81/buolamwini18a/buolamwini18a.pdf)
 
-## Additional Resources
 :::
 
 ## April 21
@@ -36,12 +45,13 @@ Commercial Gender Classification by Joy Buolamwini](https://proceedings.mlr.pres
 
 {{< fa book >}} [Data Feminism Chapter 2: Collect, Analyze, Imagine, Teach ](https://data-feminism.mitpress.mit.edu/pub/ei7cogfn/release/4)
 
+## Additional Resources
+
 {{< fa book >}} [Machine Bias by Julia Angwin, Jeff Larson, Surya Mattu and Lauren Kirchner](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing)
 
-{{< fa book >}} [Disparate Interactions: An Algorithm-in-the-Loop
+{{< fa newspaper >}} [Disparate Interactions: An Algorithm-in-the-Loop
 Analysis of Fairness in Risk Assessments by Ben Green & Yiling Chen](https://www.benzevgreen.com/wp-content/uploads/2019/02/19-fat.pdf)
 
-## Additional Resources
 :::
 
 ## April 28
@@ -51,12 +61,13 @@ Analysis of Fairness in Risk Assessments by Ben Green & Yiling Chen](https://www
 
 {{< fa book >}} [Data Feminism Chapter 3: On Rational, Scientific, Objective Viewpoints from Mythical, Imaginary, Impossible Standpoints](https://data-feminism.mitpress.mit.edu/pub/5evfe9yd/release/5)
 
-{{< fa book >}} [Situated Knowledges: The Science Question in Feminism and the Privilege of Partial Perspective by Donna Haraway](https://www.jstor.org/stable/3178066?sid=primo&seq=1)
+## Additional Resources
 
-{{< fa book >}}  [Visualization Rhetoric: Framing Effects in Narrative Visualization
+{{< fa newspaper >}} [Situated Knowledges: The Science Question in Feminism and the Privilege of Partial Perspective by Donna Haraway](https://www.jstor.org/stable/3178066?sid=primo&seq=1)
+
+{{< fa newspaper >}}  [Visualization Rhetoric: Framing Effects in Narrative Visualization
 by Jessica Hullman & Nicholas Diakopoulous](https://ieeexplore.ieee.org/document/6064988)
 
-## Additional Resources
 :::
 
 ## May 5
@@ -64,7 +75,14 @@ by Jessica Hullman & Nicholas Diakopoulous](https://ieeexplore.ieee.org/document
 ::: {.panel-tabset}
 ## Due Today
 
+{{< fa book >}} [Data Feminism Chapter 4: "What Gets Counted Counts"](https://data-feminism.mitpress.mit.edu/pub/h1w0nbqp/release/3)
+
 ## Additional Resources
+
+{{< fa newspaper >}} [Design Justice, A.I., and Escape from the Matrix of Domination](https://jods.mitpress.mit.edu/pub/costanza-chock/release/4)
+
+{{< fa newspaper >}} [The Misgendering Machines: Trans/HCI Implications of Automatic Gender Recognition](https://dl-acm-org.calpoly.idm.oclc.org/doi/abs/10.1145/3274357)
+
 :::
 
 ## May 12
@@ -72,7 +90,13 @@ by Jessica Hullman & Nicholas Diakopoulous](https://ieeexplore.ieee.org/document
 ::: {.panel-tabset}
 ## Due Today
 
+{{< fa book >}} [Data Feminism Chapter 5: Unicorns, Janitors, Ninjas, Wizards, and Rock Stars ](https://data-feminism.mitpress.mit.edu/pub/2wu7aft8/release/3)
+
+<!-- group book presentations -->
+
 ## Additional Resources
+
+{{< fa video >}} [(Dis)location / Black Exodus Interactive Collage Map by the Anti-Eviction Mapping Project](https://adriennehall8.github.io/carto-blackexodus/)
 :::
 
 ## May 19
@@ -80,7 +104,16 @@ by Jessica Hullman & Nicholas Diakopoulous](https://ieeexplore.ieee.org/document
 ::: {.panel-tabset}
 ## Due Today
 
+{{< fa book >}} [Data Feminism Chapter 6: The Numbers Don't Speak for Themselves](https://data-feminism.mitpress.mit.edu/pub/czq9dfs5/release/3)
+
+<!-- form groups for data context protocol -->
+
 ## Additional Resources
+
+{{< fa newspaper >}} [Word embeddings quantify 100 years of gender
+and ethnic stereotypes by Garga et al.](https://www.pnas.org/doi/pdf/10.1073/pnas.1720347115)
+
+{{< fa newspaper >}} [Multimodal Social Media Analysis for Gang Violence Prevention by Blandfort et al.](https://ojs.aaai.org/index.php/ICWSM/article/view/3214/3082)
 :::
 
 ## May 26
@@ -88,7 +121,15 @@ by Jessica Hullman & Nicholas Diakopoulous](https://ieeexplore.ieee.org/document
 ::: {.panel-tabset}
 ## Due Today
 
+{{< fa book >}} [Data Feminism Chapter 7: Show Your Work](https://data-feminism.mitpress.mit.edu/pub/0vgzaln4/release/3)
+
+<!-- first draft data context protocol -->
+
 ## Additional Resources
+
+{{< fa newspaper >}} [The Software that Shapes Workers Lives by Miriam Posner](https://web.archive.org/web/20190321130636/https://www.newyorker.com/science/elements/the-software-that-shapes-workers-lives)
+
+{{< fa computer-mouse >}} [Anatomy of an AI System](https://anatomyof.ai/)
 :::
 
 ## June 2
@@ -96,13 +137,23 @@ by Jessica Hullman & Nicholas Diakopoulous](https://ieeexplore.ieee.org/document
 ::: {.panel-tabset}
 ## Due Today
 
-## Additional Resources
-:::
+{{< fa book >}} [Data Feminism Conclusion: Now Let's Multiply](https://data-feminism.mitpress.mit.edu/pub/a1ao95xs/release/4)
 
-## June 9
-
-::: {.panel-tabset}
-## Due Today
+<!-- second draft data context protocol -->
 
 ## Additional Resources
+
+{{< fa newspaper >}} [Model Cards for Model Reporting by Mitchell et al.](https://dl-acm-org.calpoly.idm.oclc.org/doi/abs/10.1145/3287560.3287596)
+
+{{< fa newspaper >}} [What We Learned from Over a Decade of Tech Activism by Nataliya Nedzhvetskaya & JS Tan](https://www.theguardian.com/commentisfree/2019/dec/22/tech-worker-activism-2019-what-we-learned)
+
+{{< fa video >}} [Abolish Big Data by Yeshimabeit Milner](https://www.youtube.com/watch?v=26lM2RGAdlM)
 :::
+
+## June 9 - Data Context Protocol
+
+<!-- ::: {.panel-tabset} -->
+<!-- ## Due Today -->
+
+<!-- ## Additional Resources -->
+<!-- ::: -->
