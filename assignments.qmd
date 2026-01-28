@@ -2,11 +2,49 @@
 title: "Assignments"
 ---
 
+In this class we will be using a contract grading system. This is designed to
+give flexibility and freedom to explore while ensuring a level of
+accountability. 
+
+**Contract**
+
+You are guaranteed a grade of a B for this class if you meet the following
+conditions:
+
+- Submit reading annotations on time and meet the "satisfactory" criteria with
+a maximum of 2 missed assignments.
+
+- Complete the book presentation on time and meet the "satisfactory" conditions
+as stipulated by the rubric. 
+
+- Complete the data context protocol on time (all three deadlines) and meet the
+"satisfactory" conditions as stipulated by the rubric. 
+
+**Grade Calculations**
+
+Your grade will decrease by a third of a step (for example a B to a B-) for each
+B condition that you do not meet. Missing assignments will be scaled, so that if
+for example you miss four reading annotations your grade will decrease by 
+**one third of a step** (a B to a B-). If you miss four reading annotations
+**and** you turn the first draft of your data context protocol late your grade
+will decrease by **two thirds of a step** (a B to a C+).
+
+**Grade Boosters**
+
+You can increase your letter grade by up to a third of a step (for example a B
+to B+) for every **two** community labor points. For example, to earn an A in
+this class you must meet the conditions for a B and earn **six** community 
+labor points. 
+
+Any deviation from the grading policies outlined above will only be to your
+benefit.
+
 # Reading Annotations
 
 Each week a selection of course readings will be posted as an assignment on
 Perusall--a system for students to collaboratively annotate course readings. To
-earn credit for the course reading, you will be expected to post three quality* annotations per assignment to Perusall. 
+earn credit for the course reading, you will be expected to post three quality*
+annotations per assignment to Perusall. 
 
 A quality annotation is one in which you synthesize concepts, ask
 thought-provoking questions, or connect ideas to external issues. I have found 
@@ -20,28 +58,83 @@ annotations total. You do not need to annotate every reading in the assignment.
 
 # Book Presentations
 
+In addition to the readings each week, you will be required to read 20-30 pages
+(1-2 chapters) from one of the following books:
+
+- [Algorithms of Oppression by Safiya Noble](https://nyupress.org/9781479837243/algorithms-of-oppression/)
+- [Invisible Women by Caroline Criado Perez](https://carolinecriadoperez.com/book/invisible-women/)
+- [Race After Technology by Ruha Benjamin](https://www.ruhabenjamin.com/race-after-technology)
+- [The Transgender Issue by Shon Faye](https://www.penguin.co.uk/books/315349/the-transgender-issue-by-faye-shon/9780141991801)
+
+By Week 5 you will need to choose which book you plan to read. That week Dr. 
+Theobold will assemble student groups interested in each book. From there, your
+group will be responsible for deciding who will read which chapters, with the 
+expectation of everyone reading 1-2 chapters. 
+
+In Week 7, each group will provide a 15-minute presentation on the central ideas
+from the book they read. 
 
 # Data Context Protocol
 
+In the final three weeks of the course, you will form groups and develop a 
+"data analysis protocol" for assessing the historical, material, and ethical
+contexts of a dataset. You will also apply your protocol to critique the context
+of one of the provided datasets. 
+
+- In Week 8 you will form groups of 3-4 students and begin writing your data
+analysis protocol. 
+
+- In Week 9 your group will submit the first draft of your data analysis
+protocol.
+    * Dr. Theobold and another student group will provide feedback on your first
+    draft!
+
+- In Week 10 your group will submit the second draft of your data analysis
+protocol. 
+    * Dr. Theobold will provide one final round of feedback on this draft. 
+
+- During finals week your group will present your data analysis protocol and 
+an example of how you applied your protocol to one of the provided datasets 
+(posted to Canvas). 
 
 # Community Labor
 
-Ethnography is at its best when it involves collaborative inquiry and interpretation. Because of this, I want to encourage us to foster a cooperative community in our classroom. Ethnographers know that building and sustaining strong communities are important and often invisible forms of labor. In an effort to foreground and reward that labor, I’ve built opportunities to contribute to the course community into our grading contract. There are three opportunities for earning community labor points in this course. 
+Ethnography is at its best when it involves collaborative inquiry and
+interpretation. Because of this, I want to encourage us to foster a cooperative
+community in our classroom. Ethnographers know that building and sustaining
+strong communities are important and often invisible forms of labor. In an
+effort to foreground and reward that labor, I’ve built opportunities to 
+contribute to the course community into our grading contract. There are three
+opportunities for earning community labor points in this course. 
 
-<!-- Contributing on Slack -->
-<!-- The first opportunity for earning community labor points is through posting in the #sds-237-discussions Slack channel. For every conversation that you initiate in this channel, you will earn 1 community labor point. For every conversation that you respond to in this channel with substantive summary, critique, or reflection, you will earn 1 community labor point. Finally, for every question that you answer in the #sds-237-questions channel, you will earn 1 community labor point. -->
+## Contributing on Discord 
+
+The first opportunity for earning community labor points is through posting in
+one of the weekly #discussion channels on the course Discord server. For
+**every conversation that you initiate** in this channel, you will earn 
+**1 community labor point**. For **every conversation that you respond to** in
+this channel with substantive summary, critique, or reflection, you will earn 
+**1 community labor point.**
+
+Finally, **for every question that you answer** in the weekly #questions
+channels on the course Discord server, you will earn **1 community labor point**.
 
 ## Contributing Class Notes
 
-<!-- Following a class period, up to two students may type up a 1-page outline of  -->
-<!-- what was covered in that class period and post a link to that outline in -->
-<!-- #sds-237-class-notes. You can sign-up to serve as the notetaker for a certain -->
-<!-- class here. These notes should be a full, single-space page, and should make  -->
-<!-- sense to someone that was not present in class. Each class note outline that you 
-<!-- contribute will count for 2 community labor points. -->
+Following a class period, up to two (possibly more) students may type up a
+1-page outline of what was covered in that class period and post a link to that
+outline in the #class-notes channel of the course Discord server. You can
+sign-up to serve as the notetaker for a certain class here. These notes should 
+be a full, single-space page, and should make sense to someone that was not
+present in class. 
 
-## Participating in Peer Review Workshops
+**Each class note outline that you contribute will count for 2 community labor
+points.**
 
-<!-- Peer review for the data collection protocol drafts -->
+## Peer Review
 
-<!-- Throughout the semester, I will set up workshops where students may submit their written work for peer review in preparation for assignment submissions. Each peer review workshop that you participate in will count for 2 community labor points.  -->
+During Week 9, you will receive the data analysis protocol written by
+*at least one* other group. You will be tasked with providing thoughtful and
+constructive comments on how their protocol could be improved. 
+
+**Each peer review you complete will count for 2 community labor points.**
