@@ -9,7 +9,7 @@ website:
 
   navbar:
     title: "Data Feminism"
-    logo: "images/plain-hex.png"
+    logo: "images/plain-hex-transparent.png"
     search: true
     right:
       - text: "Home"
@@ -29,7 +29,7 @@ website:
       &copy; 2026 Allison Theobold · Built with love and <a href="https://quarto.org">Quarto</a>
     </div>
     
-  favicon: "images/plain-hex.png"
+  favicon: "images/plain-hex-transparent.png"
 
 format:
   html:
