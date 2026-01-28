@@ -1,0 +1,44 @@
+
+project:
+  type: website
+  output-dir: docs  
+
+website:
+  title: "Data Feminism"      # Change to your site title
+  site-url: "https://your-domain.org"   # Optional but good for search/SEO
+
+  navbar:
+    title: "Data Feminism"
+    logo: "images/plain-hex.png"
+    search: true
+    right:
+      - text: "Home"
+        href: index.qmd
+        #icon: house-door-fill
+      - text: "About"
+        href: about.qmd
+      - text: "Schedule"
+        href: schedule.qmd
+      - text: "Assignments"
+        href: assignments.qmd
+      - icon: github
+        href: "https://github.com/atheobold/data-feminism"
+
+  page-footer: |
+    <div style="text-align:center; font-size:0.85em;">
+      &copy; 2026 Allison Theobold · Built with love and <a href="https://quarto.org">Quarto</a>
+    </div>
+    
+  favicon: "images/plain-hex.png"
+
+format:
+  html:
+    theme:
+      - cosmo            
+      - default          
+    toc: true            
+    toc-location: left   
+    #css: styles.css      
+
+page-navigation: true
+back-to-top-navigation: true
