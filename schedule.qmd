@@ -16,6 +16,8 @@ is a great article: [Ceasar Chavez and the Organized Labor Movement](https://ame
 
 {{< fa book >}} [Data Feminism Introduction: Why Data Science Needs Feminism](https://data-feminism.mitpress.mit.edu/pub/frfa9szd/release/6)
 
+{{< fa video >}} [TED Talk: The urgency of Intersectionality by Kimberlé Crenshaw](https://www.youtube.com/watch?v=akOe5-UsQ2o)
+
 ## Additional Resources
 
 <!-- {{< fa book >}} [Black Women: Shaping Feminist Theory by bell hooks](readings/Black Women Shaping Feminist Theory.pdf) -->
