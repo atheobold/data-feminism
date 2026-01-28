@@ -1,0 +1,28 @@
+---
+title: "Welcome"
+editor: source
+---
+
+![](images/course-hex.png){style="float: right;" fig-alt="A hexagon with a black outline and a pattern of blue, purple, and pink squares in the center. The center of the hexagon says data feminism in cursive writing." fig-align="right" width="250"}
+
+*Data Feminism* is a course that explores relationships among data, power, and justice through feminist theory. Throughout our time together we will examine
+how oppression shapes data practices and learn feminist strategies for 
+recognizing bias, critiquing inequities, and designing ethical, justice-oriented
+approaches to data collection and analysis.
+
+We're going to have a lot of fun!
+
+## Acknowledements {.unnumbered}
+
+A huge shout out to [Lindsay Poirier](https://lindsaypoirier.github.io/) at 
+Smith College for inspiring me to take the leap and teach this class and to
+[Jane Lehr](https://wgqs.calpoly.edu/faculty-staff/jane-lehr) for all their
+support in getting this course approved!
+
+
+This website is built with [Quarto](https://quarto.org), the majority of the
+images are inspired by the [Data Feminism]() book by .
+
+## License {.unnumbered}
+
+<a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><img src="https://licensebuttons.net/l/by-sa/4.0/88x31.png" alt="Creative Commons License" style="border-width:0"/></a><br />This online work is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International</a>. Visit [here](https://github.com/rstudio-education/datascience-box/blob/master/LICENSE.md) for more information about the license.
