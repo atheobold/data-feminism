@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome",
+    "section": "",
+    "text": "Data Feminism is a course that explores relationships among data, power, and justice through feminist theory. Throughout our time together we will examine how oppression shapes data practices and learn feminist strategies for recognizing bias, critiquing inequities, and designing ethical, justice-oriented approaches to data collection and analysis.\nWe’re going to have a lot of fun!"
+  },
+  {
+    "objectID": "index.html#acknowledements",
+    "href": "index.html#acknowledements",
+    "title": "Welcome",
+    "section": "Acknowledements",
+    "text": "Acknowledements\nA huge shout out to Lindsay Poirier at Smith College for inspiring me to take the leap and teach this class and to Jane Lehr for all their support in getting this course approved!\nThis website is built with Quarto, the majority of the images are inspired by the Data Feminism book by ."
+  },
+  {
+    "objectID": "index.html#license",
+    "href": "index.html#license",
+    "title": "Welcome",
+    "section": "License",
+    "text": "License\nThis online work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International. Visit here for more information about the license."
+  }
+]
