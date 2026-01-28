@@ -1,5 +1,108 @@
 ---
-title: "Untitled"
-format: html
-editor: visual
+title: "Schedule"
 ---
+
+## April 7
+
+::: {.panel-tabset}
+## Due Today
+
+{{< fa book >}} [Data Feminism Introduction: Why Data Science Needs Feminism](https://data-feminism.mitpress.mit.edu/pub/frfa9szd/release/6)
+
+{{< fa book >}} [Black Women: Shaping Feminist Theory by bell hooks](readings/Black Women Shaping Feminist Theory.pdf)
+
+{{< fa book >}} [The Combahee River Collective Statement](http://circuitous.org/scraps/combahee.html)
+
+## Additional Resources
+:::
+
+## April 14
+
+::: {.panel-tabset}
+## Due Today
+
+{{< fa book >}} [Data Feminism Chapter 1: The Power Chapter](https://data-feminism.mitpress.mit.edu/pub/vi8obxh7/release/4)
+
+{{< fa book >}} [Gender Shades: Intersectional Accuracy Disparities in
+Commercial Gender Classification by Joy Buolamwini](https://proceedings.mlr.press/v81/buolamwini18a/buolamwini18a.pdf)
+
+## Additional Resources
+:::
+
+## April 21
+
+::: {.panel-tabset}
+## Due Today
+
+{{< fa book >}} [Data Feminism Chapter 2: Collect, Analyze, Imagine, Teach ](https://data-feminism.mitpress.mit.edu/pub/ei7cogfn/release/4)
+
+{{< fa book >}} [Machine Bias by Julia Angwin, Jeff Larson, Surya Mattu and Lauren Kirchner](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing)
+
+{{< fa book >}} [Disparate Interactions: An Algorithm-in-the-Loop
+Analysis of Fairness in Risk Assessments by Ben Green & Yiling Chen](https://www.benzevgreen.com/wp-content/uploads/2019/02/19-fat.pdf)
+
+## Additional Resources
+:::
+
+## April 28
+
+::: {.panel-tabset}
+## Due Today
+
+{{< fa book >}} [Data Feminism Chapter 3: On Rational, Scientific, Objective Viewpoints from Mythical, Imaginary, Impossible Standpoints](https://data-feminism.mitpress.mit.edu/pub/5evfe9yd/release/5)
+
+{{< fa book >}} [Situated Knowledges: The Science Question in Feminism and the Privilege of Partial Perspective by Donna Haraway](https://www.jstor.org/stable/3178066?sid=primo&seq=1)
+
+{{< fa book >}}  [Visualization Rhetoric: Framing Effects in Narrative Visualization
+by Jessica Hullman & Nicholas Diakopoulous](https://ieeexplore.ieee.org/document/6064988)
+
+## Additional Resources
+:::
+
+## May 5
+
+::: {.panel-tabset}
+## Due Today
+
+## Additional Resources
+:::
+
+## May 12
+
+::: {.panel-tabset}
+## Due Today
+
+## Additional Resources
+:::
+
+## May 19
+
+::: {.panel-tabset}
+## Due Today
+
+## Additional Resources
+:::
+
+## May 26
+
+::: {.panel-tabset}
+## Due Today
+
+## Additional Resources
+:::
+
+## June 2
+
+::: {.panel-tabset}
+## Due Today
+
+## Additional Resources
+:::
+
+## June 9
+
+::: {.panel-tabset}
+## Due Today
+
+## Additional Resources
+:::
