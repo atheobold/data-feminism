@@ -70,8 +70,9 @@ but I am happy to schedule a meeting during another time if necessary.
 # Course Texts
 
 This course follows *Data Feminism* by Catherine D'Ignazio and Lauren F. Klein. 
-You can access every chapter online (https://data-feminism.mitpress.mit.edu/) or
-you can choose to purchase the physical copy of the book. 
+You can access every chapter online (<https://data-feminism.mitpress.mit.edu/>)
+or you can choose to purchase the physical copy of the book through [MIT Press](https://mitpress.mit.edu/9780262044004/data-feminism/) (please don't 
+purchase from Amazon!). 
 
 In addition to this book, we will draw on many books and academic papers. 
 I will make all course readings available on Perusall, which can be accessed 
@@ -172,6 +173,18 @@ of one of the provided datasets.
 In this class we will be using a [contract grading system](assignments.qmd). 
 This is designed to give flexibility and freedom to explore while ensuring a
 level of accountability.
+
+There will be four different types of assignments in this course---reading 
+annotations, group book presentations, group data context protocol, and 
+community labor. You can read more about each specific assignment type
+[here](assignments.qmd). 
+
+## Topics
+
+The course will roughly follow the sequence of topics in *Data Feminism*,
+focusing on the following principles:
+
+![](images/principles-of-data-feminism.png){fig-alt="A graphic displaying the 7 principles of Data Feminism. The principles are: examine power, challenge power, rethink binaries and hierarchies, elevate emotion and embodiment, embrace pluralism, consider context, and make labor visible."}
 
 # Classroom Community and Policies
 
