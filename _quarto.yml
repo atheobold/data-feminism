@@ -15,8 +15,8 @@ website:
       - text: "Home"
         href: index.qmd
         #icon: house-door-fill
-      - text: "About"
-        href: about.qmd
+      - text: "Syllabus"
+        href: syllabus.qmd
       - text: "Schedule"
         href: schedule.qmd
       - text: "Assignments"
