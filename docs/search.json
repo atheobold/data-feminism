@@ -143,8 +143,8 @@
     "objectID": "syllabus.html#course-objectives",
     "href": "syllabus.html#course-objectives",
     "title": "Syllabus",
-    "section": "1.1 Course Objectives",
-    "text": "1.1 Course Objectives\nAfter taking this course, you will be able to:\nCreate\n\ncomplex and reproducible data reports, that include interactive and / or dynamic elements.\ncompelling data visualizations with interactive elements.\n\nUse iteration to\n\nobtain data through APIs and webscraping.\ncreate generative art."
+    "section": "Course Objectives",
+    "text": "Course Objectives\nAfter taking this course, you will be able to:\n\nDescribe feminism as a critical theoretical framework for understanding systems of power and oppression.\nDiscuss how feminist theoretical principles can be used to understand the power dynamics underlying data practices.\nOperationalize a feminist lens to:\n\n\nIdentify how data collection practices and analyses can uphold systemic biases.\nExplain why data collection practices and analysis could harm groups of individuals.\nIllustrate how various historical events influence how data are collected / represented today.\n\n\nDevelop a protocol for assessing the historical, material, and ethical contexts of a dataset.\nApply said protocol to critique a data collection or analysis plan from a justice-oriented lens.\n\n\n\n\n\n\n\nNoteHow will these be assessed?\n\n\n\nLearning Objective (LO) #1 and #2 will be assessed by weekly reading annotations and performance in classroom discussions.\nLO #3 will be assessed by book presentations in Week 7.\nLO #4 and #5 will be evaluated by the development of a data context protocol and the application of the protocol to critique the data collection or analysis of one of the provided datasets."
   },
   {
     "objectID": "syllabus.html#prerequisites",
@@ -263,6 +263,76 @@
     "href": "syllabus.html#footnotes",
     "title": "Syllabus",
     "section": "Footnotes",
-    "text": "Footnotes\n\n\nSee Section 3.0.2 for information on what you can expect when you email me.↩︎"
+    "text": "Footnotes\n\n\nSee Section 5.1 (Getting Help) for information on what you can expect when you email me.↩︎"
+  },
+  {
+    "objectID": "syllabus.html#course-description",
+    "href": "syllabus.html#course-description",
+    "title": "Syllabus",
+    "section": "Course Description",
+    "text": "Course Description\nExplores relationships among data, power, and justice through feminist theory. Students examine how oppression shapes data practices and learn feminist strategies for recognizing bias, critiquing inequities, and designing ethical, justice-oriented approaches to data collection and analysis."
+  },
+  {
+    "objectID": "syllabus.html#reading-annotations-due-tuesdays-by-9am",
+    "href": "syllabus.html#reading-annotations-due-tuesdays-by-9am",
+    "title": "Syllabus",
+    "section": "Reading Annotations (Due Tuesdays by 9am)",
+    "text": "Reading Annotations (Due Tuesdays by 9am)\nEach week a selection of course readings will be posted as an assignment on Perusall–a system for students to collaboratively annotate course readings. To earn credit for the course reading, you will be expected to post three quality* annotations per assignment to Perusall.\nA quality annotation is one in which you synthesize concepts, ask thought-provoking questions, or connect ideas to external issues. I have found that students get the most out of Perusall when they respond to each other’s annotations. Annotations must be completed by Tuesday at 9am to receive credit."
+  },
+  {
+    "objectID": "syllabus.html#book-presentations-due-week-7",
+    "href": "syllabus.html#book-presentations-due-week-7",
+    "title": "Syllabus",
+    "section": "Book Presentations (Due Week 7)",
+    "text": "Book Presentations (Due Week 7)\nIn addition to the readings each week, you will be required to read 20-30 pages (1-2 chapters) from one of the following books:\n\nAlgorithms of Oppression by Safiya Noble\nInvisible Women by Caroline Criado Perez\nRace After Technology by Ruha Benjamin\nThe Transgender Issue by Shon Faye\n\nBy Week 5 you will need to choose which book you plan to read. That week Dr.  Theobold will assemble student groups interested in each book. From there, your group will be responsible for deciding who will read which chapters, with the expectation of everyone reading 1-2 chapters.\nIn Week 7, each group will provide a 15-minute presentation on the central ideas from the book they read."
+  },
+  {
+    "objectID": "syllabus.html#contributing-on-discord",
+    "href": "syllabus.html#contributing-on-discord",
+    "title": "Syllabus",
+    "section": "Contributing on Discord",
+    "text": "Contributing on Discord\nThe first opportunity for earning community labor points is through posting in one of the weekly #discussion channels on the course Discord server. For every conversation that you initiate in this channel, you will earn 1 community labor point. For every conversation that you respond to in this channel with substantive summary, critique, or reflection, you will earn 1 community labor point.\nFinally, for every question that you answer in the weekly #questions channels on the course Discord server, you will earn 1 community labor point."
+  },
+  {
+    "objectID": "syllabus.html#contributing-class-notes",
+    "href": "syllabus.html#contributing-class-notes",
+    "title": "Syllabus",
+    "section": "Contributing Class Notes",
+    "text": "Contributing Class Notes\nFollowing a class period, up to two (possibly more) students may type up a 1-page outline of what was covered in that class period and post a link to that outline in the #class-notes channel of the course Discord server. You can sign-up to serve as the notetaker for a certain class here. These notes should be a full, single-space page, and should make sense to someone that was not present in class.\nEach class note outline that you contribute will count for 2 community labor points."
+  },
+  {
+    "objectID": "syllabus.html#peer-review",
+    "href": "syllabus.html#peer-review",
+    "title": "Syllabus",
+    "section": "Peer Review",
+    "text": "Peer Review\nDuring Week 9, you will receive the data analysis protocol written by at least one other group. You will be tasked with providing thoughtful and constructive comments on how their protocol could be improved.\nEach peer review you complete will count for 2 community labor points."
+  },
+  {
+    "objectID": "syllabus.html#support",
+    "href": "syllabus.html#support",
+    "title": "Syllabus",
+    "section": "Support",
+    "text": "Support\n\nGetting HelpAccommodationsFinancial ResourcesMental HealthTrigger WarningsThreatening BehaviorChildcare\n\n\nThis quarter, I am instating a policy that I do not respond to emails with questions of general interest, such as deadline clarifications or conceptual questions. If you have one of these questions, please post your question on our course Discord server.\n\n\n\n\n\n\nNoteResponding to Private Messages\n\n\n\nIf you send my a DM on Discord asking a question that I believe other students would benefit from seeing my response, I will likely choose to answer it in one of the public channels of Discord instead. Please don’t take this personally! It just means that you asked a good question, and I think the rest of the class could benefit from seeing the answer.\n\n\n\n\nI enthusiastically support the mission of Disability Resource Center to make education accessible to all. I design all my courses with accessibility at the forefront of my thinking, but if you have any suggestions for ways I can make things more accessible, please let me know. Come talk to me if you need accommodation for your disabilities. I honor self-diagnosis: let’s talk to each other about how we can make the course as accessible as possible. See also the standard syllabus statements, which include more information about formal processes.\n\n\nIf you have difficulty affording groceries or accessing sufficient food to eat every day, or if you lack a safe and stable place to live, and you believe this may affect your performance in the course, I urge you to contact the Dean of Students for support. Furthermore, please notify me if you are comfortable in doing so. This will enable me to advocate for you and to connect you with other campus resources.\n\n\nNational surveys of college students have consistently found that stress, sleep problems, anxiety, depression, interpersonal concerns, death of a significant other and alcohol use are among the top ten health impediments to academic performance. If you are experiencing any mental health issues, I and Cal Poly are here to help you. Cal Poly’s Counseling Services (805-756-2511) is a free and confidential resource for assistance, support and advocacy.\n\n\nA trigger is a topic or image that can precipitate an intense emotional response. When common triggering topics are to be covered in this course, I will do my best to provide a trigger warning in advance of the discussion. However, I can’t always anticipate triggers. With this in mind I’ve set up an anonymous form, available on Canvas, where you can indicate topics for which you would like me to provide a warning.\n\n\nI will listen and believe you if someone is threatening you. I will help you get the help you need. I commit to changing campus culture that responds poorly to dating violence and stalking.\n\n\nIf you are responsible for childcare on short notice, you are welcome to bring children to class with you. If you are a lactating parent, you many take breaks to feed your infant or express milk as needed. If I can support yo in navigating parenting, coursework, and other obligations in any way, please let me know."
+  },
+  {
+    "objectID": "syllabus.html#perusall",
+    "href": "syllabus.html#perusall",
+    "title": "Syllabus",
+    "section": "Perusall",
+    "text": "Perusall\nAll course readings and recorded lectures will be available on Perusall. You can access Perusall via our course Canvas page."
+  },
+  {
+    "objectID": "syllabus.html#discord",
+    "href": "syllabus.html#discord",
+    "title": "Syllabus",
+    "section": "Discord",
+    "text": "Discord\nThis quarter, we will make use of a class-wide Discord Server. The link on Canvas will help you join this server. Refer to the Using Discord guide on Canvas for more information on how to effectively use this server.\nJoining the Discord is not optional. Discord is the primary avenue for earning community labor points by initiating conversations, responding to conversations, or answering course questions.\n\n\n\n\n\n\nTip\n\n\n\nDiscord is also the best way to possibly get your questions answered outside of ordinary class and office hours."
+  },
+  {
+    "objectID": "syllabus.html#sec-support",
+    "href": "syllabus.html#sec-support",
+    "title": "Syllabus",
+    "section": "Support",
+    "text": "Support\n\nGetting HelpAccommodationsFinancial ResourcesMental HealthTrigger WarningsThreatening BehaviorChildcare\n\n\nThis quarter, I am instating a policy that I do not respond to emails with questions of general interest, such as deadline clarifications or conceptual questions. If you have one of these questions, please post your question on our course Discord server.\n\n\n\n\n\n\nNoteResponding to Private Messages\n\n\n\nIf you send my a DM on Discord asking a question that I believe other students would benefit from seeing my response, I will likely choose to answer it in one of the public channels of Discord instead. Please don’t take this personally! It just means that you asked a good question, and I think the rest of the class could benefit from seeing the answer.\n\n\n\n\nI enthusiastically support the mission of Disability Resource Center to make education accessible to all. I design all my courses with accessibility at the forefront of my thinking, but if you have any suggestions for ways I can make things more accessible, please let me know. Come talk to me if you need accommodation for your disabilities. I honor self-diagnosis: let’s talk to each other about how we can make the course as accessible as possible. See also the standard syllabus statements, which include more information about formal processes.\n\n\nIf you have difficulty affording groceries or accessing sufficient food to eat every day, or if you lack a safe and stable place to live, and you believe this may affect your performance in the course, I urge you to contact the Dean of Students for support. Furthermore, please notify me if you are comfortable in doing so. This will enable me to advocate for you and to connect you with other campus resources.\n\n\nNational surveys of college students have consistently found that stress, sleep problems, anxiety, depression, interpersonal concerns, death of a significant other and alcohol use are among the top ten health impediments to academic performance. If you are experiencing any mental health issues, I and Cal Poly are here to help you. Cal Poly’s Counseling Services (805-756-2511) is a free and confidential resource for assistance, support and advocacy.\n\n\nA trigger is a topic or image that can precipitate an intense emotional response. When common triggering topics are to be covered in this course, I will do my best to provide a trigger warning in advance of the discussion. However, I can’t always anticipate triggers. With this in mind I’ve set up an anonymous form, available on Canvas, where you can indicate topics for which you would like me to provide a warning.\n\n\nI will listen and believe you if someone is threatening you. I will help you get the help you need. I commit to changing campus culture that responds poorly to dating violence and stalking.\n\n\nIf you are responsible for childcare on short notice, you are welcome to bring children to class with you. If you are a lactating parent, you many take breaks to feed your infant or express milk as needed. If I can support yo in navigating parenting, coursework, and other obligations in any way, please let me know."
   }
 ]
