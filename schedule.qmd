@@ -173,6 +173,8 @@ and ethnic stereotypes by Garga et al.](https://www.pnas.org/doi/pdf/10.1073/pna
 
 ## Additional Resources
 
+{{< fa newspaper >}} [Fairness for Unobserved Characteristics: Insights from Technological Impacts on Queer Communities by Tomasev et al.](https://dl.acm.org/doi/10.1145/3461702.3462540)
+
 {{< fa newspaper >}} [The Software that Shapes Workers Lives by Miriam Posner](https://web.archive.org/web/20190321130636/https://www.newyorker.com/science/elements/the-software-that-shapes-workers-lives)
 
 {{< fa computer-mouse >}} [Anatomy of an AI System](https://anatomyof.ai/)
@@ -198,6 +200,7 @@ and ethnic stereotypes by Garga et al.](https://www.pnas.org/doi/pdf/10.1073/pna
 {{< fa newspaper >}} [What We Learned from Over a Decade of Tech Activism by Nataliya Nedzhvetskaya & JS Tan](https://www.theguardian.com/commentisfree/2019/dec/22/tech-worker-activism-2019-what-we-learned)
 
 {{< fa video >}} [Abolish Big Data by Yeshimabeit Milner](https://www.youtube.com/watch?v=26lM2RGAdlM)
+
 :::
 
 ## (Week 11) June 9 - Data Context Protocol
