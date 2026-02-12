@@ -2,6 +2,9 @@
 title: "Schedule"
 ---
 
+<!-- February 25-26 -->
+<!-- https://conference.rainbowr.org/ -->
+
 ## (Week 1) March 31 - Cezar Chavez Day
 
 ![](images/cezar-chavez.png){fig-alt="A black-and-white photo of farm-worker strike marchers. Two people hold round signs reading ‘HUELGA’ (strike) above a black eagle symbol and ‘NFWA’ (National Farm Workers Association). In the foreground, César Chávez walks with his head slightly down while other marchers crowd behind him."}
@@ -181,6 +184,8 @@ and ethnic stereotypes by Garga et al.](https://www.pnas.org/doi/pdf/10.1073/pna
 :::
 
 ## (Week 10) June 2
+
+<!-- Incorporate ASA LGBTQ+ webinar -->
 
 
 ::: {.panel-tabset}
