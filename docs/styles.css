@@ -1,0 +1,16 @@
+blockquote {
+  color: #212529;
+  background-color: #f8f9fa;
+  border-left: 4px solid #f754cc;
+  padding: 1rem;
+}
+
+/* for links */
+
+a {
+  color: #652ae1;
+}
+
+a:hover {
+  color: #f754cc; 
+}

@@ -3,7 +3,11 @@ title: "Welcome"
 editor: source
 ---
 
-![](images/course-hex.png){style="float: right;" fig-alt="A hexagon with a black outline and a pattern of blue, purple, and pink squares in the center. The center of the hexagon says data feminism in cursive writing." fig-align="right" width="250"}
+<!-- ::: {.column-margin} -->
+<!-- ![](images/course-hex.png){style="float: right;" fig-alt="A hexagon with a black outline and a pattern of blue, purple, and pink squares in the center. The center of the hexagon says data feminism in cursive writing." fig-align="right" width="250"} -->
+<!-- ::: -->
+
+![](images/intersectionality.png){fig-alt="A styled block quote with a purple background. The quote reads 'Our Lives are Intersectional, Our Feminism is Intersectional, Our Data Must Be Intersectional. On each line, the word 'Intersectional' is highlighted in red (while the other text is purple)." fig-align="center" width="1000"}
 
 *Data Feminism* is a course that explores relationships among data, power, and justice through feminist theory. Throughout our time together we will examine
 how oppression shapes data practices and learn feminist strategies for 
@@ -21,8 +25,10 @@ support in getting this course approved!
 
 
 This website is built with [Quarto](https://quarto.org), the majority of the
-images are inspired by the [Data Feminism]() book by .
+images are inspired by the [Data Feminism](https://data-feminism.mitpress.mit.edu) book by Catherine D'Ignazio and Lauren F. Klein.
+
 
 ## License {.unnumbered}
 
 <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><img src="https://licensebuttons.net/l/by-sa/4.0/88x31.png" alt="Creative Commons License" style="border-width:0"/></a><br />This online work is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International</a>. Visit [here](https://github.com/rstudio-education/datascience-box/blob/master/LICENSE.md) for more information about the license.
+

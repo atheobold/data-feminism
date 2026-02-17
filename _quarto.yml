@@ -27,7 +27,8 @@ website:
 
   page-footer: |
     <div style="text-align:center; font-size:0.85em;">
-      &copy; 2026 Allison Theobold · Built with love and <a href="https://quarto.org">Quarto</a>
+      ![](images/course-hex.png){width=50px fig-alt="A hexagon with a black outline and a pattern of blue, purple, and pink squares in the center. The center of the hexagon says data feminism in cursive writing."} &copy; 2026 Allison Theobold. Built with love and <a href="https://quarto.org">Quarto</a>
+      
     </div>
     
   favicon: "images/plain-hex-transparent.png"
@@ -39,7 +40,7 @@ format:
       - default          
     toc: true            
     toc-location: left   
-    #css: styles.css      
+    css: styles.css      
 
 page-navigation: true
 back-to-top-navigation: true
