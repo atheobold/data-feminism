@@ -1,1 +1,1 @@
-Sitemap: https://your-domain.org/sitemap.xml
+Sitemap: atheobold.github.io/data-feminism/sitemap.xml

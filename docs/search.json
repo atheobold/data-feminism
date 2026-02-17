@@ -91,55 +91,6 @@
     "text": "Final Gathering\n“I was going to die, if not sooner than later, whether or not I had ever spoken myself. My silences had not protected me. Your silence will not protect you.\nWhat are the words you do not have yet? What do you need to say? What are the tyrannies you swallow day by day and attempt to make your own, until you will sicken and die of them, still in silence? We have been socialized to respect fear more than our own need for language.\nAnd, of course, I am afraid—you can hear it in my voice—because the transformation of silence into language and action is an act of self-revelation and that always seems fraught with danger. But my daughter, when I told her of our topic and my difficulty with it, said, “tell them about how you’re never really a whole person if you remain silent, because there’s always that one little piece inside of you that wants to be spoken out, and if you keep ignoring it, it gets madder and madder and hotter and hotter, and if you don’t speak it out one day it will just up and punch you in the mouth.\nI began to ask each time: “What’s the worst that could happen to me if I tell this truth?” Unlike women in other countries, our breaking silence is unlikely to have us jailed, “disappeared” or run off the road at night. Our speaking out will irritate some people, get us called bitchy or hypersensitive and disrupt some dinner parties. And then our speaking out will permit other women to speak, until laws are changed and lives are saved and the world is altered forever.\nNext time, ask: What’s the worst that will happen? Then push yourself a little further than you dare. Once you start to speak, people will yell at you. They will interrupt you, put you down and suggest it’s personal. And the world won’t end.\nAnd the speaking will get easier and easier. And you will find you have fallen in love with your own vision, which you may never have realized you had. And you will lose some friends and lovers, and realize you don’t miss them. And new ones will find you and cherish you. And at last you’ll know with surpassing certainty that only one thing is more frightening than speaking your truth. And that is not speaking.”\nAudre Lorde, Black, lesbian, mother, warrior, poet"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Welcome",
-    "section": "",
-    "text": "Data Feminism is a course that explores relationships among data, power, and justice through feminist theory. Throughout our time together we will examine how oppression shapes data practices and learn feminist strategies for recognizing bias, critiquing inequities, and designing ethical, justice-oriented approaches to data collection and analysis.\nWe’re going to have a lot of fun!"
-  },
-  {
-    "objectID": "index.html#acknowledements",
-    "href": "index.html#acknowledements",
-    "title": "Welcome",
-    "section": "Acknowledements",
-    "text": "Acknowledements\nA huge shout out to Lindsay Poirier at Smith College for inspiring me to take the leap and teach this class and to Jane Lehr for all their support in getting this course approved!\nThis website is built with Quarto, the majority of the images are inspired by the Data Feminism book by ."
-  },
-  {
-    "objectID": "index.html#license",
-    "href": "index.html#license",
-    "title": "Welcome",
-    "section": "License",
-    "text": "License\nThis online work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International. Visit here for more information about the license."
-  },
-  {
-    "objectID": "assignments.html",
-    "href": "assignments.html",
-    "title": "Grading Contract",
-    "section": "",
-    "text": "In this class we will be using a contract grading system. This is designed to give flexibility and freedom to explore while ensuring a level of accountability.\nYou are guaranteed a grade of a B for this class if you meet the following conditions:\nGrade Calculations\nYour grade will decrease by a third of a step (for example a B to a B-) for each B condition that you do not meet. Missing assignments will be scaled, so that if for example you miss four reading annotations your grade will decrease by one third of a step (a B to a B-). Similarly, if you miss two class meetings, your grade will decrease by one third of a step (a B to a B-). If you miss four reading annotations and you miss two class meetings your grade will decrease by two thirds of a step (a B to a C+).\nGrade Boosters\nYou can increase your letter grade by up to a third of a step (for example a B to B+) for every two community labor points. For example, to earn an A in this class you must meet the conditions for a B and earn six community labor points.\nAny deviation from the grading policies outlined above will only be to your benefit."
-  },
-  {
-    "objectID": "assignments.html#contributing-on-discord",
-    "href": "assignments.html#contributing-on-discord",
-    "title": "Grading Contract",
-    "section": "Contributing on Discord",
-    "text": "Contributing on Discord\nThe first opportunity for earning community labor points is through posting in one of the weekly #discussion channels on the course Discord server. For every conversation that you initiate in this channel, you will earn 1 community labor point. For every conversation that you respond to in this channel with substantive summary, critique, or reflection, you will earn 1 community labor point.\nFinally, for every question that you answer in the weekly #questions channels on the course Discord server, you will earn 1 community labor point."
-  },
-  {
-    "objectID": "assignments.html#contributing-class-notes",
-    "href": "assignments.html#contributing-class-notes",
-    "title": "Grading Contract",
-    "section": "Contributing Class Notes",
-    "text": "Contributing Class Notes\nFollowing a class period, up to two (possibly more) students may type up a 1-page outline of what was covered in that class period and post a link to that outline in the #class-notes channel of the course Discord server. You can sign-up to serve as the notetaker for a certain class here. These notes should be a full, single-space page, and should make sense to someone that was not present in class.\nEach class note outline that you contribute will count for 2 community labor points."
-  },
-  {
-    "objectID": "assignments.html#peer-review",
-    "href": "assignments.html#peer-review",
-    "title": "Grading Contract",
-    "section": "Peer Review",
-    "text": "Peer Review\nDuring Week 9, you will receive the data analysis protocol written by at least one other group. You will be tasked with providing thoughtful and constructive comments on how their protocol could be improved.\nEach peer review you complete will count for 2 community labor points."
-  },
-  {
     "objectID": "syllabus.html#course-description",
     "href": "syllabus.html#course-description",
     "title": "Syllabus",
@@ -173,5 +124,54 @@
     "title": "Syllabus",
     "section": "Footnotes",
     "text": "Footnotes\n\n\nSee Section 5.1 (Getting Help) for information on what you can expect when you email me.↩︎"
+  },
+  {
+    "objectID": "assignments.html",
+    "href": "assignments.html",
+    "title": "Grading Contract",
+    "section": "",
+    "text": "In this class we will be using a contract grading system. This is designed to give flexibility and freedom to explore while ensuring a level of accountability.\nYou are guaranteed a grade of a B for this class if you meet the following conditions:\nGrade Calculations\nYour grade will decrease by a third of a step (for example a B to a B-) for each B condition that you do not meet. Missing assignments will be scaled, so that if for example you miss four reading annotations your grade will decrease by one third of a step (a B to a B-). Similarly, if you miss two class meetings, your grade will decrease by one third of a step (a B to a B-). If you miss four reading annotations and you miss two class meetings your grade will decrease by two thirds of a step (a B to a C+).\nGrade Boosters\nYou can increase your letter grade by up to a third of a step (for example a B to B+) for every two community labor points. For example, to earn an A in this class you must meet the conditions for a B and earn six community labor points.\nAny deviation from the grading policies outlined above will only be to your benefit."
+  },
+  {
+    "objectID": "assignments.html#contributing-on-discord",
+    "href": "assignments.html#contributing-on-discord",
+    "title": "Grading Contract",
+    "section": "Contributing on Discord",
+    "text": "Contributing on Discord\nThe first opportunity for earning community labor points is through posting in one of the weekly #discussion channels on the course Discord server. For every conversation that you initiate in this channel, you will earn 1 community labor point. For every conversation that you respond to in this channel with substantive summary, critique, or reflection, you will earn 1 community labor point.\nFinally, for every question that you answer in the weekly #questions channels on the course Discord server, you will earn 1 community labor point."
+  },
+  {
+    "objectID": "assignments.html#contributing-class-notes",
+    "href": "assignments.html#contributing-class-notes",
+    "title": "Grading Contract",
+    "section": "Contributing Class Notes",
+    "text": "Contributing Class Notes\nFollowing a class period, up to two (possibly more) students may type up a 1-page outline of what was covered in that class period and post a link to that outline in the #class-notes channel of the course Discord server. You can sign-up to serve as the notetaker for a certain class here. These notes should be a full, single-space page, and should make sense to someone that was not present in class.\nEach class note outline that you contribute will count for 2 community labor points."
+  },
+  {
+    "objectID": "assignments.html#peer-review",
+    "href": "assignments.html#peer-review",
+    "title": "Grading Contract",
+    "section": "Peer Review",
+    "text": "Peer Review\nDuring Week 9, you will receive the data analysis protocol written by at least one other group. You will be tasked with providing thoughtful and constructive comments on how their protocol could be improved.\nEach peer review you complete will count for 2 community labor points."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome",
+    "section": "",
+    "text": "Data Feminism is a course that explores relationships among data, power, and justice through feminist theory. Throughout our time together we will examine how oppression shapes data practices and learn feminist strategies for recognizing bias, critiquing inequities, and designing ethical, justice-oriented approaches to data collection and analysis.\nWe’re going to have a lot of fun!"
+  },
+  {
+    "objectID": "index.html#acknowledements",
+    "href": "index.html#acknowledements",
+    "title": "Welcome",
+    "section": "Acknowledements",
+    "text": "Acknowledements\nA huge shout out to Lindsay Poirier at Smith College for inspiring me to take the leap and teach this class and to Jane Lehr for all their support in getting this course approved!\nThis website is built with Quarto, the majority of the images are inspired by the Data Feminism book by ."
+  },
+  {
+    "objectID": "index.html#license",
+    "href": "index.html#license",
+    "title": "Welcome",
+    "section": "License",
+    "text": "License\nThis online work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International. Visit here for more information about the license."
   }
 ]

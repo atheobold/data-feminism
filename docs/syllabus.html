@@ -81,8 +81,8 @@ ul.task-list li input[type="checkbox"] {
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
     <a href="./index.html" class="navbar-brand navbar-brand-logo">
-    <img src="./images/plain-hex-transparent.png" alt="" class="navbar-logo light-content">
-    <img src="./images/plain-hex-transparent.png" alt="" class="navbar-logo dark-content">
+    <img src="./images/plain-hex-transparent.png" alt="A hexagon logo for the Data Feminism course that will direct you back to the homepage (with the course description)." class="navbar-logo light-content">
+    <img src="./images/plain-hex-transparent.png" alt="A hexagon logo for the Data Feminism course that will direct you back to the homepage (with the course description)." class="navbar-logo dark-content">
     </a>
     <a class="navbar-brand" href="./index.html">
     <span class="navbar-title">Data Feminism</span>
@@ -111,7 +111,7 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Assignments</span></a>
   </li>  
   <li class="nav-item compact">
-    <a class="nav-link" href="https://github.com/atheobold/data-feminism"> <i class="bi bi-github" role="img">
+    <a class="nav-link" href="https://github.com/atheobold/data-feminism"> <i class="bi bi-github" role="img" aria-label="View source code on GitHub">
 </i> 
 <span class="menu-text"></span></a>
   </li>  
@@ -225,7 +225,7 @@ ul.task-list li input[type="checkbox"] {
 <p>I will typically hold student hours in my office (25-105), but may choose to move to the outside vestibule between wings of the building (where all the whiteboards are) or the Statistics department conference room. If we’re meeting somewhere other than my office, I will leave a sign on the door indicating where we’re meeting!</p>
 </div>
 <div id="tabset-1-4" class="tab-pane" role="tabpanel" aria-labelledby="tabset-1-4-tab">
-<p>If you would like to talk with me one-on-one about anything (e.g., grades, research), I’ve reserved time on Thursdays from 12:10pm to 1:00pm for individual appointments. You can make 10-minute appointments through the following link: <a href="https://calendly.com/allisontheobold" class="uri">https://calendly.com/allisontheobold</a></p>
+<p>If you would like to talk with me one-on-one about anything (e.g., grades, research), I’ve reserved time on Thursdays from 12:10pm to 1:00pm for individual appointments. You can make 10-minute appointments through <a href="https://calendly.com/allisontheobold">the following Calendly link</a></p>
 <p>I do request that you make appointments at least 2-hours ahead of time, so I don’t accidentally miss our meeting!</p>
 <p>If you need to meet, but none of the student hours work for you please let me know! It is possible we can communicate asynchronously through Discord or email, but I am happy to schedule a meeting during another time if necessary.</p>
 </div>
@@ -233,7 +233,7 @@ ul.task-list li input[type="checkbox"] {
 </div>
 <section id="course-texts" class="level1">
 <h1>Course Texts</h1>
-<p>This course follows <em>Data Feminism</em> by Catherine D’Ignazio and Lauren F. Klein. You can access every chapter online (<a href="https://data-feminism.mitpress.mit.edu/" class="uri">https://data-feminism.mitpress.mit.edu/</a>) or you can choose to purchase the physical copy of the book through <a href="https://mitpress.mit.edu/9780262044004/data-feminism/">MIT Press</a> (please don’t purchase from Amazon!).</p>
+<p>This course follows <em>Data Feminism</em> by Catherine D’Ignazio and Lauren F. Klein. You can access every chapter online (<a href="https://data-feminism.mitpress.mit.edu">link to online text</a>) or you can choose to purchase the physical copy of the book through MIT Press (<a href="https://mitpress.mit.edu/9780262044004/data-feminism/">link to purchase a physical copy of the book</a>). The authors (and I) request that you please don’t purchase the book from Amazon!</p>
 <p>In addition to this book, we will draw on many books and academic papers. I will make all course readings available on Perusall, which can be accessed through our course Canvas page.</p>
 </section>
 <section id="infrastructure" class="level1">
@@ -545,7 +545,7 @@ Tip
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp("https:\/\/your-domain\.org");
+        var filterRegex = new RegExp("atheobold\.github\.io\/data-feminism\/");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }

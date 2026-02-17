@@ -1,15 +1,15 @@
-
 project:
   type: website
   output-dir: docs  
 
 website:
-  title: "Data Feminism"      # Change to your site title
-  site-url: "https://your-domain.org"   # Optional but good for search/SEO
+  title: "Data Feminism"
+  site-url: "atheobold.github.io/data-feminism/"
 
   navbar:
     title: "Data Feminism"
     logo: "images/plain-hex-transparent.png"
+    logo-alt: "A hexagon logo for the Data Feminism course that will direct you back to the homepage (with the course description)."
     search: true
     right:
       - text: "Home"
@@ -22,7 +22,8 @@ website:
       - text: "Assignments"
         href: assignments.qmd
       - icon: github
-        href: "https://github.com/atheobold/data-feminism"
+        href: https://github.com/atheobold/data-feminism
+        aria-label: "View source code on GitHub"
 
   page-footer: |
     <div style="text-align:center; font-size:0.85em;">
