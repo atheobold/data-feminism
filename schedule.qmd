@@ -4,6 +4,8 @@ title: "Schedule"
 #   html:
 #     axe:
 #       output: document
+resources: 
+  - readings/Ceasar-Chavez-and-the-Organized-Labor-Movement.pdf
 ---
 
 <!-- February 25-26 -->
@@ -14,7 +16,7 @@ title: "Schedule"
 ![](images/cezar-chavez.png){fig-alt="A black-and-white photo of farm-worker strike marchers. Two people hold round signs reading ‘HUELGA’ (strike) above a black eagle symbol and ‘NFWA’ (National Farm Workers Association). In the foreground, César Chávez walks with his head slightly down while other marchers crowd behind him."}
 
 If you are interested in reading about the history of the labor movement, this
-is a great article: [Ceasar Chavez and the Organized Labor Movement](https://americanexperience.si.edu/wp-content/uploads/2015/02/Ceasar-Chavez-and-the-Organized-Labor-Movement.pdf)
+is a great article: [Ceasar Chavez and the Organized Labor Movement](readings/Ceasar-Chavez-and-the-Organized-Labor-Movement.pdf)
 
 ## (Week 2) April 7
 
