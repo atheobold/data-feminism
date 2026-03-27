@@ -5,20 +5,23 @@ title: "Schedule"
 #     axe:
 #       output: document
 resources: 
-  - readings/Ceasar-Chavez-and-the-Organized-Labor-Movement.pdf
+  - readings/organized-labor-movement.pdf
 ---
 
 <!-- February 25-26 -->
 <!-- https://conference.rainbowr.org/ -->
 
-## (Week 1) March 31 - Cezar Chavez Day
+## (Week 1) March 31 - Farm Workers' Day
 
 ![](images/doris-combined.png){fig-alt="Two figures printed side by side. Each figure has the outline of Doris Huerta, the co-founder of the United Farm Workers. One figure says 'Believe Women. Believe Girls.' and the second image says 'Protect Women. Protect Girls.' These images refer to the recent news of the rape and sexual assault young girls such as Doris Huerta experienced at the hand of Cesar Chavez."}
 
-If you are interested in reading about the history of the labor movement, this
-is a great article: [Ceasar Chavez and the Organized Labor Movement](readings/Ceasar-Chavez-and-the-Organized-Labor-Movement.pdf). 
+::: {.panel-tabset}
+## Due Today
 
-When reading about Ceasar Chavez's activism, it is important not to omit the [recent news about Cezar Chavez's sexual abuse of young girls involved in the Labor Movement](https://www.nytimes.com/2026/03/18/us/cesar-chavez-sexual-abuse-allegations-ufw.html?unlocked_article_code=1.UVA.jKje.psg20MM5rWKn&smid=url-share).
+{{< fa newspaper title="newspaper">}} [Smithsonian article on The Organized Labor Movement](readings/organized-labor-movement.pdf). 
+
+{{< fa newspaper title="newspaper">}} [NYT article on Ceasar Chavez's sexual abuse of young girls involved in the Labor Movement](https://www.nytimes.com/2026/03/18/us/cesar-chavez-sexual-abuse-allegations-ufw.html?unlocked_article_code=1.UVA.jKje.psg20MM5rWKn&smid=url-share).
+:::
 
 ## (Week 2) April 7
 
