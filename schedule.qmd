@@ -48,12 +48,6 @@ resources:
 ## Due Today
 
 {{< fa book title="book">}} [Data Feminism Chapter 1: The Power Chapter](https://data-feminism.mitpress.mit.edu/pub/vi8obxh7/release/4)
-
-## Additional Resources
-
-{{< fa newspaper title="paper">}} [Gender Shades: Intersectional Accuracy Disparities in
-Commercial Gender Classification by Joy Buolamwini](https://proceedings.mlr.press/v81/buolamwini18a/buolamwini18a.pdf)
-
 :::
 
 ## (Week 4) April 21
@@ -71,7 +65,8 @@ Commercial Gender Classification by Joy Buolamwini](https://proceedings.mlr.pres
 
 {{< fa book title="book">}} [Machine Bias by Julia Angwin, Jeff Larson, Surya Mattu and Lauren Kirchner](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing)
 
-{{< fa newspaper title="paper">}} [Fairness for Unobserved Characteristics: Insights from Technological Impacts on Queer Communities by Tomasev et al.](https://arxiv.org/abs/2102.04257?utm)
+{{< fa newspaper title="paper">}} [Gender Shades: Intersectional Accuracy Disparities in
+Commercial Gender Classification by Joy Buolamwini](https://proceedings.mlr.press/v81/buolamwini18a/buolamwini18a.pdf)
 
 {{< fa newspaper title="paper">}} [Disparate Interactions: An Algorithm-in-the-Loop
 Analysis of Fairness in Risk Assessments by Ben Green & Yiling Chen](https://www.benzevgreen.com/wp-content/uploads/2019/02/19-fat.pdf)
@@ -95,7 +90,7 @@ Analysis of Fairness in Risk Assessments by Ben Green & Yiling Chen](https://www
 
 ## Additional Resources
 
-{{< fa newspaper title="paper">}} [Situated Knowledges: The Science Question in Feminism and the Privilege of Partial Perspective by Donna Haraway](https://www.jstor.org/stable/3178066?sid=primo&seq=1)
+<!-- {{< fa newspaper title="paper">}} [Situated Knowledges: The Science Question in Feminism and the Privilege of Partial Perspective by Donna Haraway](https://www.jstor.org/stable/3178066?sid=primo&seq=1) -->
 
 {{< fa newspaper title="paper">}} [Visualization Rhetoric: Framing Effects in Narrative Visualization
 by Jessica Hullman & Nicholas Diakopoulous](https://ieeexplore.ieee.org/document/6064988)
@@ -210,6 +205,8 @@ and ethnic stereotypes by Garga et al.](https://www.pnas.org/doi/pdf/10.1073/pna
 
 
 ## Additional Resources
+
+{{< fa newspaper title="paper">}} [Fairness for Unobserved Characteristics: Insights from Technological Impacts on Queer Communities by Tomasev et al.](https://arxiv.org/abs/2102.04257?utm)
 
 {{< fa newspaper title="paper">}} [Model Cards for Model Reporting by Mitchell et al.](https://dl-acm-org.calpoly.idm.oclc.org/doi/abs/10.1145/3287560.3287596)
 
