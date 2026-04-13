@@ -60,8 +60,8 @@ annotations total. You do not need to annotate every reading in the assignment.
 
 # Book Presentations
 
-In addition to the readings each week, you will be required to read 20-30 pages
-(1-2 chapters) from one of the following books:
+In addition to the readings each week, you will be required to read one 
+chapter (20-30 pages) from one of the following books:
 
 - [Algorithms of Oppression by Safiya Noble](https://nyupress.org/9781479837243/algorithms-of-oppression/)
 - [Invisible Women by Caroline Criado Perez](https://carolinecriadoperez.com/book/invisible-women/)
@@ -75,6 +75,26 @@ expectation of everyone reading 1-2 chapters.
 
 In Week 7, each group will provide a 15-minute presentation on the central ideas
 from the book they read. 
+
+## Presenatation Grading
+
+A satisfactory book chapter presentation **must** have the following:
+
+- A brief summary of the chapter
+- A (brief) discussion of how the chapter aligns with data feminism
+- A discussion of how the chapter touches on *at least two* of the principles
+discussed thus far in the course:
+
+    * Examine Power
+    * Challenge Power
+    * Elevate Emotion and Embodiment
+    * Rethink Binaries and Hierarchies
+
+You should have **three to four** slides for your presentation. You are expected
+to collaborate with peers reading the same book to create **one** slide deck
+for everyone. 
+
+I would strongly recommend using Google Slides to make your slide deck!
 
 # Data Context Protocol
 
