@@ -3,7 +3,6 @@ project:
   output-dir: docs  
   render: 
     - "*.qmd"
-    - "!/class-notes"
 
 website:
   title: "Data Feminism"
@@ -22,6 +21,8 @@ website:
         href: syllabus.qmd
       - text: "Schedule"
         href: schedule.qmd
+      - text: "Discussion Notes"
+        href: discussions.qmd
       - text: "Assignments"
         href: assignments.qmd
       - icon: github
