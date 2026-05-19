@@ -101,7 +101,7 @@ I would strongly recommend using Google Slides to make your slide deck!
 In the final three weeks of the course, you will form groups and develop a 
 "data analysis protocol" for assessing the historical, material, and ethical
 contexts of a dataset. You will also apply your protocol to critique the context
-of one of the provided datasets. 
+of one of the provided datasets (posted to Canvas). 
 
 - In Week 8 you will form groups of 3-4 students and begin writing your data
 analysis protocol. 
@@ -115,9 +115,8 @@ protocol.
 protocol. 
     * Dr. Theobold will provide one final round of feedback on this draft. 
 
-- During finals week your group will present your data analysis protocol and 
-an example of how you applied your protocol to one of the provided datasets 
-(posted to Canvas). 
+- Your final version is due on Monday, June 8th at 5pm.
+
 
 # Community Labor
 

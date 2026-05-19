@@ -1,0 +1,92 @@
+---
+title: "Final Project"
+---
+
+Your final task for the quarter is to develop a "data context protocol" which 
+individuals can use to assessing the context of a dataset. 
+
+## Data Context
+
+Typically, when someone refers to the "context" of the data they are thinking 
+of addressing the six questions:
+
+- Who?
+  * Who collected the data? (i.e., what person, people, agency)
+- What?
+  * What data were collected? (i.e., observations and variables)
+- Where?
+  * Where were the data collected? (i.e., what setting)
+- When? 
+  * When were the data collected? (i.e., timing)
+- Why?
+  * Why were the data collected? (i.e., for what purpose)
+- How?
+  * How were the data collected? (i.e., sampling procedures, variable measurement)
+
+<!-- 4. Always relate the data to the context. (Chance, 2002) -->
+
+These questions specifically target what Catherine D'Ignazio and Lauren Klein
+call [the "material conditions" of the data](https://data-feminism.mitpress.mit.edu/pub/czq9dfs5#n55ehaowwqw).
+But, these questions do not *situate* the data in the broader context in which 
+they were produced. One of the central tenets of feminist thinking is the belief
+that all knowledge is situated. So, our task is to create a protocol (i.e., a 
+series of questions) that others can use to *situate* the context of any
+dataset. 
+
+# Data Context Protocol
+
+<!-- GAISE: Contextual Background – Students should read and be asked questions about the -->
+<!-- background that informs the context of the data. For example, if the data involves the -->
+<!-- number of friends a person has on Facebook, then students should read a brief -->
+<!-- background on some pertinent aspects about Facebook.  -->
+
+This activity is part of a broader push for transparency with respect to 
+data published on the internet (e.g., 
+[data dictionary](http://curatingmenus.org/data_dictionary/)). Similar to 
+these documents, you are tasked with developing a protocol that helps 
+individuals situate their data in the social, cultural, historical, and
+institutional contexts. These contexts are critical for understanding the power
+and privilege that contributed to making the data and identifying how this may 
+obscuring the truth.
+
+## Developing a Protocol
+
+For each of these four contexts (social, cultural, historical, institutional), 
+you are tasked with:
+
+1. Creating a working definition (i.e., what is the "social context"?)
+2. Curating a series of questions that help researchers identify pertinent 
+details related to this context
+
+
+# Protocol Application
+
+Once you have finished your protocol, you will then provide a demonstration 
+of applying your protocol to a specific dataset. I have selected three datasets
+that are widely used in statistics and data science education:
+
+**Palmer Penguins**
+
+- [Data Documentation](https://doi.org/10.1371/journal.pone.0090081)
+    * [Palmer Station, Antarctica LTER](https://pallter.marine.rutgers.edu/)
+    * [Long Term Ecological Research Network](https://lternet.edu/)
+- [R package with data](https://allisonhorst.github.io/palmerpenguins)
+- Articles written about the data:
+  * [Adélie penguins (Pygoscelis adeliae)](https://doi.org/10.6073/pasta/98b16d7d563f265cb52372c8ca99e60f)
+  * [Gentoo penguin (Pygoscelis papua)](https://doi.org/10.6073/pasta/7fca67fb28d56ee2ffa3d9370ebda689)
+  * [Chinstrap penguin (Pygoscelis antarcticus)](https://doi.org/10.6073/pasta/c14dfcfada8ea13a17536e73eb6fbe9e)
+
+**Course Evaluations**
+
+- [Data Documentation](https://pdf.sciencedirectassets.com/271751/1-s2.0-S0272775705X00917/1-s2.0-S0272775704001165/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEA4aCXVzLWVhc3QtMSJHMEUCIHVr6FynIMYwJstH21VX09kmSdjuQdn7624i0tFUFNe%2BAiEAoE%2FoXaYorEs8O7DTUxP3itWdmW2qbI%2Be9lm6R9ZoqucquwUI1%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAFGgwwNTkwMDM1NDY4NjUiDN%2BTlQwF7a9BFb3%2BkCqPBbPj5C%2FTuvFqkia1aY4yr%2BzzcV%2FyxBCUZ5wJIsdTl93F0niy%2F%2FhUEW1%2BT9SiTqeByMYewu%2BCTWSsW49E596ZvAw2xjdVOLCExlZBPif2fj0NoF3TgEvBJTF6l7CQmUNpOBkx0sLEJsN70siFbZT9t51TACAEbLONFT43Q3Uk0t5rBZ2%2BMOsoDqiQGKjjAu6kKaE895YcLrlY9wFCYQQglPyqcMS1s4T%2FmTZf99nOBHbhh8OMNwY9XplBohRGp9i43D0cnrKajl0YQjQoEDaAbsxvIedvHs6KvuncApVPDzezTq8YjlaSNoOlTLlfZGkVGCs5gzHR3ZzvCErUJyBdztO3p%2B5Fk7GQRaV0UtQObndeti95ekQ%2FCPiQ%2FewEmzk9obYExPppt3PhMYD902jdyT1ugp6sotw61avHWwBDXwJR0hF3voMBeS1tK9dp5y7MOouK2BbeDkaoYcK6LBJ2qM4zqGPUXIelyuDNt%2FL1KOnuoNTrEpMaFvLpv0dZARmYPEVlsf0eOQm3jx4OQCGO6gdZ7AkhjVJqyesU0XLo9IXdqtpt%2Fk4ULUHHRaER0AQXXTgEziPCFEWgndjtwW7lXTgJYcIJhNtqISuzu1V12exlR28zLQiy2Bl3uVE%2FrzSimAPWrU825eXxgPgRTr%2BSrit9K%2FrVoVp7O3b%2BQgjHvgDd31G2P07Oyr%2BCYsKAWEfdyM%2FcBQbVwRseShfLm7aRpJt%2FvwWjWEOY4HYs0KAUDXJAVofscr%2BekoLI5u9JozhUOWvI5A%2FrsKw3DlB4TCH3jzUp8Yl1CtWkPKG1M6KkF2%2Bt0mSXG4RzNLdzZji9eVs0a8nL0nTxDUfV6%2Fq8YOxdMLiIAEL8laNKTeDOQdByTikwjs2x0AY6sQEJZTMWhiN1pZysySF8MrbLOI%2BinZ%2Bav%2BtYiCN3LcqgqajruV%2BN1wyAqmvzYilQjiLPbu2pKbEafEPOUS85gzqzRfO44RZtuan2K4fhJrzE0h%2FU6tQkbyJFsPRTLkVIZlIkW8XMqggjoG%2BTqbOo2msjBPnGj6RdFq0%2BHKFncT3vAtcDAoQ2LGvL5LY6ziVAbtLmxsp%2BkDSA%2BJib6Tr%2F7MqHNhFUbdN8FcOtyiKlmXxNLk0%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20260519T140625Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTY4S63YS62%2F20260519%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=a760e6a6a9dd5ae0ffb2371248ab98330655375224ab82e451a84f68617c9abf&hash=d07883f9800e388a385bfdd1579e287a3df16cd3289fac461bbf4c77729a06b9&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S0272775704001165&tid=spdf-9f062216-ece8-43b8-a98a-e527d65f86ec&sid=58a50bee3a6ab7491d2b0ba8220d8fcbd085gxrqa&type=client&tsoh=d3d3LXNjaWVuY2VkaXJlY3QtY29tLmNhbHBvbHkuaWRtLm9jbGMub3Jn&rh=d3d3LXNjaWVuY2VkaXJlY3QtY29tLmNhbHBvbHkuaWRtLm9jbGMub3Jn&ua=0f15560500520e575f5d54&rr=9fe3a9823f1a2717&cc=us)
+- [R package with data](http://openintro.org/data/index.php?data=evals)
+- Articles written about the data:
+  * [Looking Good on Course Evaluations](http://chance.amstat.org/2013/04/looking-good/)
+  * [Modern Dive](https://moderndive.com/6-multiple-regression.html)
+
+**Global Economies**
+
+- [Data Documentation](https://www.gapminder.org/data/)
+- [R package with data](https://cran.r-project.org/web/packages/gapminder/index.html)
+- Articles written about the data:
+  * [Dollar Street](https://www.gapminder.org/dollar-street)

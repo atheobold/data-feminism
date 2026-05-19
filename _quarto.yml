@@ -28,6 +28,17 @@ website:
       - icon: github
         href: https://github.com/atheobold/data-feminism
         aria-label: "View source code on GitHub"
+  sidebar:
+    - id: assignments
+      title: "Assignments"
+      style: "floating"
+      collapse-level: 2
+      align: left
+      contents:
+        - href: assignments.qmd
+        - text: Final Project
+          href: final-project.qmd
+
 
   page-footer: |
     <div style="text-align:center; font-size:0.85em;">
