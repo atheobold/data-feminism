@@ -35,7 +35,7 @@ grade will decrease by **two thirds of a step** (a B to a C+).
 
 You can increase your letter grade by up to a third of a step (for example a B
 to B+) for every **two** community labor points. For example, to earn an A in
-this class you must meet the conditions for a B and earn **six** community labor
+this class you must meet the conditions for a B and earn **four** community labor
 points.
 
 Any deviation from the grading policies outlined above will only be to your
@@ -115,8 +115,7 @@ protocol.
 protocol. 
     * Dr. Theobold will provide one final round of feedback on this draft. 
 
-- Your final version is due on Monday, June 8th at 5pm.
-
+- Your final version is due on Wednesday, June 10th at 10am.
 
 # Community Labor
 
@@ -154,7 +153,7 @@ points.**
 
 ## Peer Review
 
-During Week 9, you will receive the data analysis protocol written by
+During Week 10, you will receive the data analysis protocol written by
 *at least one* other group. You will be tasked with providing thoughtful and
 constructive comments on how their protocol could be improved. 
 
